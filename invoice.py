@@ -1,4 +1,4 @@
-worked_hours = 30
+worked_hours = int(input("How many hours did you work this month? "))
 hourly_rate = 45
 
 total_invoice = worked_hours * hourly_rate
